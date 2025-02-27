@@ -14,3 +14,8 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+## Additional Resources
+
+- [GitHub Documentation](https://docs.github.com/en)
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
